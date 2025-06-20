@@ -107,7 +107,7 @@ const arvoreReader = () => {
         menu.appendChild(startButton);
 
         const footer = document.createElement('div');
-        footer.innerHTML = 'Feito por <strong>VipCoringa</strong>';
+        footer.innerHTML = 'Feito por <strong>VipCoringa!</strong>';
         footer.style.textAlign = 'center';
         menu.appendChild(footer);
 
